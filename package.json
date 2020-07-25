@@ -1,0 +1,19 @@
+{
+  "name": "tracking-correios",
+  "version": "1.0.0",
+  "description": "Módulo de rastreamento dos Correios Brasil.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tracking",
+    "rastreio",
+    "correios"
+  ],
+  "author": "Gustavo Amaro",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}
